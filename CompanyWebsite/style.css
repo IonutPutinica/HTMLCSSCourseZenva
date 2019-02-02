@@ -31,3 +31,13 @@ body {
     background-color: black;
     
 }
+
+.image-area {
+    background-image: url("images/background.png");
+    background-color: black;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+}
