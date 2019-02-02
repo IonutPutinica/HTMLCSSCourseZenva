@@ -88,4 +88,10 @@ body {
         border-left :1px solid black;
         text-align: left;
     }
+    
+    .single-service {
+        width: 50%;
+        float: left;
+    }
+    
 }
