@@ -69,5 +69,9 @@ body {
 .single-service {
     text-align: center;
     margin-bottom: 32px;
-    
+
+}
+
+.single-service p {
+    padding: 0px 16px
 }
